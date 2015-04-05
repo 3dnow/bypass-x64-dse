@@ -1,0 +1,1 @@
+Bypass x64 Driver Signature Enforcement on windows7 and windows8
